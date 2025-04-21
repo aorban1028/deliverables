@@ -1,3 +1,4 @@
+CREATE DATABASE IF NOT EXISTS chore_app;
 USE chore_app; 
 
  
